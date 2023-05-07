@@ -54,5 +54,5 @@ class Downloader:
 
 
 if __name__ == '__main__':
-    d: Downloader = Downloader("https://www.armedconflicts.com/10344-Defensive-war-of-the-USSR-Part-2")
+    d: Downloader = Downloader("")
     d.save()
