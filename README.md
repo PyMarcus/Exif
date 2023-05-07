@@ -6,3 +6,8 @@ The Exchange Image File Format (Exif) standard defines the specifies how to stor
 
 
 Identify, in a blog about war, the coordinates of the image and its location
+
+
+### Platform:
+
+Windows 10 64bits
