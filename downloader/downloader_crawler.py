@@ -50,7 +50,7 @@ class Downloader:
                 except KeyError:
                     ...
             for link in links:
-                if link.get("href") and link.get("href") != '#' and "https://www.depoisdosquinze" in link.get("href"):
+                if link.get("href") and link.get("href") != '#' and self.__base in link.get("href"):
                     if link.get("href") not in self.__links:
                         self.__links.append(link.get("href"))
 
