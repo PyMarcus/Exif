@@ -13,3 +13,9 @@ Identify, in a blog about war, the coordinates of the image and its location
 Windows 10 64bits
 
 ![image](https://user-images.githubusercontent.com/88283829/236702176-ccdaec8c-ab6e-4017-997f-bc08b922389b.png)
+
+
+
+
+https://user-images.githubusercontent.com/88283829/236890260-06e75a52-1bd3-40c1-be60-0da4ab0dc6dd.mp4
+
