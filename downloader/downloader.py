@@ -54,5 +54,5 @@ class Downloader:
 
 
 if __name__ == '__main__':
-    d: Downloader = Downloader("")
+    d: Downloader = Downloader("https://www.serradacantareirahoje.com/2023/05/06/03-a-05-05-2023-bem-vindo-ao-blog-oficial-da-policia-militar-do-estado-de-sao-paulo-site-oficial-%E2%A4%B5%EF%B8%8F/")
     d.save()
